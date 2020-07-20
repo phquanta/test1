@@ -1,0 +1,5 @@
+{
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.terminal.activateEnvironment": false,
+    "python.pythonPath": "C:\\Users\\Andrei\\Anaconda2\\envs\\tensorflow_env\\python.exe"
+}
